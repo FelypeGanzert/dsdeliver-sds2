@@ -1,4 +1,3 @@
-import {ReactComponent as Pizza } from './main.svg';
 import { Product } from './types';
 
 type Props = {
